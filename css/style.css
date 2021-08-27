@@ -265,6 +265,30 @@
 	color: #ffffff;
 }
 
+/** Page Daftar Domain **/
+#pendaftaran h3 {
+	text-align: center;
+	padding-bottom: 30px;
+	font-weight: 600;
+	font-size: 24px;
+	margin-top: 60px;
+}
+
+#pendaftaran label {
+	text-align: left;
+}
+
+#pendaftaran .form-group {
+	margin-bottom: 10px;
+}
+
+#pendaftaran .btn {
+	margin-top: 20px;
+	background-color: #EE5A24;
+	color: white;
+
+}
+
 
 
 
